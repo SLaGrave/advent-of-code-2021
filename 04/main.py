@@ -21,7 +21,7 @@ class Board:
             self.called.append((4, self.row4.index(num)))
         except: pass
         try:
-            self.called.append((5, self.row5.index(num)))
+            self.called.append((5, self.row5.index(num)))   
         except: pass
 
 
